@@ -37,8 +37,7 @@ body {
 main {
 	display: grid;
 	gap: 1rem;
-	background-color: hsl(var(--clr-neutral-1), 0.8);
-	backdrop-filter: blur(0.2rem);
+	background-color: hsl(var(--clr-neutral-1));
 	color: var(--clr-neutral-4);
 	padding: 1.25rem 1.5rem 0.5rem;
 	border-radius: 1rem;
